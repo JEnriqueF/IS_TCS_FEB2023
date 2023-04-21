@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Socket Cliente Solucion\Ejemplo Socket Servidor\bin\Debug\net6.0\Ejemplo Socket Servidor.exe
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Socket Cliente Solucion\Ejemplo Socket Servidor\bin\Debug\net6.0\Ejemplo Socket Servidor.deps.json
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Socket Cliente Solucion\Ejemplo Socket Servidor\bin\Debug\net6.0\Ejemplo Socket Servidor.runtimeconfig.json
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Socket Cliente Solucion\Ejemplo Socket Servidor\bin\Debug\net6.0\Ejemplo Socket Servidor.dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Socket Cliente Solucion\Ejemplo Socket Servidor\bin\Debug\net6.0\Ejemplo Socket Servidor.pdb
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Socket Cliente Solucion\Ejemplo Socket Servidor\obj\Debug\net6.0\Ejemplo Socket Servidor.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Socket Cliente Solucion\Ejemplo Socket Servidor\obj\Debug\net6.0\Ejemplo Socket Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Socket Cliente Solucion\Ejemplo Socket Servidor\obj\Debug\net6.0\Ejemplo Socket Servidor.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Socket Cliente Solucion\Ejemplo Socket Servidor\obj\Debug\net6.0\Ejemplo Socket Servidor.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Socket Cliente Solucion\Ejemplo Socket Servidor\obj\Debug\net6.0\Ejemplo Socket Servidor.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Socket Cliente Solucion\Ejemplo Socket Servidor\obj\Debug\net6.0\Ejemplo Socket Servidor.dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Socket Cliente Solucion\Ejemplo Socket Servidor\obj\Debug\net6.0\refint\Ejemplo Socket Servidor.dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Socket Cliente Solucion\Ejemplo Socket Servidor\obj\Debug\net6.0\Ejemplo Socket Servidor.pdb
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Socket Cliente Solucion\Ejemplo Socket Servidor\obj\Debug\net6.0\Ejemplo Socket Servidor.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Socket Cliente Solucion\Ejemplo Socket Servidor\obj\Debug\net6.0\ref\Ejemplo Socket Servidor.dll

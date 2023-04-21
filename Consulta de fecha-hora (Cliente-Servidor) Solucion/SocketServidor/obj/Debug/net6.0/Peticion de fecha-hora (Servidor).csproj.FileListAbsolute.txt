@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Consulta de fecha-hora (Cliente-Servidor) Solucion\SocketServidor\bin\Debug\net6.0\Peticion de fecha-hora (Servidor).exe
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Consulta de fecha-hora (Cliente-Servidor) Solucion\SocketServidor\bin\Debug\net6.0\Peticion de fecha-hora (Servidor).deps.json
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Consulta de fecha-hora (Cliente-Servidor) Solucion\SocketServidor\bin\Debug\net6.0\Peticion de fecha-hora (Servidor).runtimeconfig.json
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Consulta de fecha-hora (Cliente-Servidor) Solucion\SocketServidor\bin\Debug\net6.0\Peticion de fecha-hora (Servidor).dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Consulta de fecha-hora (Cliente-Servidor) Solucion\SocketServidor\bin\Debug\net6.0\Peticion de fecha-hora (Servidor).pdb
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Consulta de fecha-hora (Cliente-Servidor) Solucion\SocketServidor\obj\Debug\net6.0\Peticion de fecha-hora (Servidor).csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Consulta de fecha-hora (Cliente-Servidor) Solucion\SocketServidor\obj\Debug\net6.0\Peticion de fecha-hora (Servidor).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Consulta de fecha-hora (Cliente-Servidor) Solucion\SocketServidor\obj\Debug\net6.0\Peticion de fecha-hora (Servidor).AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Consulta de fecha-hora (Cliente-Servidor) Solucion\SocketServidor\obj\Debug\net6.0\Peticion de fecha-hora (Servidor).AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Consulta de fecha-hora (Cliente-Servidor) Solucion\SocketServidor\obj\Debug\net6.0\Peticion de fecha-hora (Servidor).csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Consulta de fecha-hora (Cliente-Servidor) Solucion\SocketServidor\obj\Debug\net6.0\Peticion de fecha-hora (Servidor).dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Consulta de fecha-hora (Cliente-Servidor) Solucion\SocketServidor\obj\Debug\net6.0\refint\Peticion de fecha-hora (Servidor).dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Consulta de fecha-hora (Cliente-Servidor) Solucion\SocketServidor\obj\Debug\net6.0\Peticion de fecha-hora (Servidor).pdb
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Consulta de fecha-hora (Cliente-Servidor) Solucion\SocketServidor\obj\Debug\net6.0\Peticion de fecha-hora (Servidor).genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Consulta de fecha-hora (Cliente-Servidor) Solucion\SocketServidor\obj\Debug\net6.0\ref\Peticion de fecha-hora (Servidor).dll

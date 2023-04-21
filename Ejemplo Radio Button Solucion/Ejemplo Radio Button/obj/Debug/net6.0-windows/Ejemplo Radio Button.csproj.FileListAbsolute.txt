@@ -1,0 +1,21 @@
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\bin\Debug\net6.0-windows\Ejemplo Radio Button.exe
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\bin\Debug\net6.0-windows\Ejemplo Radio Button.deps.json
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\bin\Debug\net6.0-windows\Ejemplo Radio Button.runtimeconfig.json
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\bin\Debug\net6.0-windows\Ejemplo Radio Button.dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\bin\Debug\net6.0-windows\Ejemplo Radio Button.pdb
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\obj\Debug\net6.0-windows\Ejemplo Radio Button.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\obj\Debug\net6.0-windows\Ejemplo Radio Button_MarkupCompile.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\obj\Debug\net6.0-windows\Ejemplo Radio Button_MarkupCompile.lref
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\obj\Debug\net6.0-windows\Ejemplo Radio Button.g.resources
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\obj\Debug\net6.0-windows\Ejemplo Radio Button.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\obj\Debug\net6.0-windows\Ejemplo Radio Button.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\obj\Debug\net6.0-windows\Ejemplo Radio Button.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\obj\Debug\net6.0-windows\Ejemplo Radio Button.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\obj\Debug\net6.0-windows\Ejemplo Radio Button.dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\obj\Debug\net6.0-windows\refint\Ejemplo Radio Button.dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\obj\Debug\net6.0-windows\Ejemplo Radio Button.pdb
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\obj\Debug\net6.0-windows\Ejemplo Radio Button.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Ejemplo Radio Button Solucion\Ejemplo Radio Button\obj\Debug\net6.0-windows\ref\Ejemplo Radio Button.dll

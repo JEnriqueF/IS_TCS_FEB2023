@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Proyecto global\Primer programa en C#\bin\Debug\net6.0\Primer programa en C#.exe
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Proyecto global\Primer programa en C#\bin\Debug\net6.0\Primer programa en C#.deps.json
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Proyecto global\Primer programa en C#\bin\Debug\net6.0\Primer programa en C#.runtimeconfig.json
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Proyecto global\Primer programa en C#\bin\Debug\net6.0\Primer programa en C#.dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Proyecto global\Primer programa en C#\bin\Debug\net6.0\Primer programa en C#.pdb
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Proyecto global\Primer programa en C#\obj\Debug\net6.0\Primer programa en C#.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Proyecto global\Primer programa en C#\obj\Debug\net6.0\Primer programa en C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Proyecto global\Primer programa en C#\obj\Debug\net6.0\Primer programa en C#.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Proyecto global\Primer programa en C#\obj\Debug\net6.0\Primer programa en C#.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Proyecto global\Primer programa en C#\obj\Debug\net6.0\Primer programa en C#.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Proyecto global\Primer programa en C#\obj\Debug\net6.0\Primer programa en C#.dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Proyecto global\Primer programa en C#\obj\Debug\net6.0\refint\Primer programa en C#.dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Proyecto global\Primer programa en C#\obj\Debug\net6.0\Primer programa en C#.pdb
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Proyecto global\Primer programa en C#\obj\Debug\net6.0\Primer programa en C#.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Proyecto global\Primer programa en C#\obj\Debug\net6.0\ref\Primer programa en C#.dll

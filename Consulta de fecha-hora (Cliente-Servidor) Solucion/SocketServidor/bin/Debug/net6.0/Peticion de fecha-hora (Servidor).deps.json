@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Peticion de fecha-hora (Servidor)/1.0.0": {
+        "runtime": {
+          "Peticion de fecha-hora (Servidor).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Peticion de fecha-hora (Servidor)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

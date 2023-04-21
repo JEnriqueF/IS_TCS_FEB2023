@@ -1,0 +1,17 @@
+﻿<Window x:Class="PatronObserver.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PatronObserver"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Selecciona un color:" HorizontalAlignment="Left" Margin="61,49,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cbColores" HorizontalAlignment="Left" Margin="61,80,0,0" VerticalAlignment="Top" Width="186"/>
+        <Label Content="Agrega un nuevo color a la lista:" HorizontalAlignment="Left" Margin="424,49,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="tbColor" TextWrapping="Wrap" Text="" Height="NaN" Margin="424,80,185,312" Width="NaN" />
+        <Button Content="Agregar" HorizontalAlignment="Left" Margin="638,81,0,0" VerticalAlignment="Top" Width="60" Click="agregarColor"/>
+
+    </Grid>
+</Window>
