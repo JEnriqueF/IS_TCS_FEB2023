@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Convertidor\ServicioConvertidor\bin\Debug\ServicioConvertidor.dll.config
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Convertidor\ServicioConvertidor\bin\Debug\ServicioConvertidor.dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Convertidor\ServicioConvertidor\bin\Debug\ServicioConvertidor.pdb
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Convertidor\ServicioConvertidor\obj\Debug\ServicioConvertidor.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Convertidor\ServicioConvertidor\obj\Debug\ServicioConvertidor.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Convertidor\ServicioConvertidor\obj\Debug\ServicioConvertidor.dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\Convertidor\ServicioConvertidor\obj\Debug\ServicioConvertidor.pdb
