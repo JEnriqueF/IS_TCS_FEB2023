@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\ControlEscolar\ServicioAlumnos\bin\Debug\ServicioAlumnos.dll.config
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\ControlEscolar\ServicioAlumnos\bin\Debug\ServicioAlumnos.dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\ControlEscolar\ServicioAlumnos\bin\Debug\ServicioAlumnos.pdb
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\ControlEscolar\ServicioAlumnos\obj\Debug\ServicioAlumnos.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\ControlEscolar\ServicioAlumnos\obj\Debug\ServicioAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\ControlEscolar\ServicioAlumnos\obj\Debug\ServicioAlumnos.dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\ControlEscolar\ServicioAlumnos\obj\Debug\ServicioAlumnos.pdb

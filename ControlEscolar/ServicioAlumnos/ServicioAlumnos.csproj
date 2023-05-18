@@ -44,9 +44,13 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IService1.cs" />
+    <Compile Include="Alumno.cs" />
+    <Compile Include="IServicioAlumno.cs" />
+    <Compile Include="IServicioProfesor.cs" />
+    <Compile Include="Profesor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Service1.cs" />
+    <Compile Include="ServicioAlumno.cs" />
+    <Compile Include="ServicioProfesor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

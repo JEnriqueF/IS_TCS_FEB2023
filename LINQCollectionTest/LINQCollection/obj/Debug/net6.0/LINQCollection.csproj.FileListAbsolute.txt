@@ -1,0 +1,30 @@
+D:\VS_Projects\LINQCollectionTest\LINQCollection\bin\Debug\net6.0\LINQCollection.exe
+D:\VS_Projects\LINQCollectionTest\LINQCollection\bin\Debug\net6.0\LINQCollection.deps.json
+D:\VS_Projects\LINQCollectionTest\LINQCollection\bin\Debug\net6.0\LINQCollection.runtimeconfig.json
+D:\VS_Projects\LINQCollectionTest\LINQCollection\bin\Debug\net6.0\LINQCollection.dll
+D:\VS_Projects\LINQCollectionTest\LINQCollection\bin\Debug\net6.0\LINQCollection.pdb
+D:\VS_Projects\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\LINQCollection.csproj.AssemblyReference.cache
+D:\VS_Projects\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\LINQCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Projects\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\LINQCollection.AssemblyInfoInputs.cache
+D:\VS_Projects\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\LINQCollection.AssemblyInfo.cs
+D:\VS_Projects\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\LINQCollection.csproj.CoreCompileInputs.cache
+D:\VS_Projects\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\LINQCollection.dll
+D:\VS_Projects\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\refint\LINQCollection.dll
+D:\VS_Projects\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\LINQCollection.pdb
+D:\VS_Projects\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\LINQCollection.genruntimeconfig.cache
+D:\VS_Projects\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\ref\LINQCollection.dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\LINQCollectionTest\LINQCollection\bin\Debug\net6.0\LINQCollection.exe
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\LINQCollectionTest\LINQCollection\bin\Debug\net6.0\LINQCollection.deps.json
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\LINQCollectionTest\LINQCollection\bin\Debug\net6.0\LINQCollection.runtimeconfig.json
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\LINQCollectionTest\LINQCollection\bin\Debug\net6.0\LINQCollection.dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\LINQCollectionTest\LINQCollection\bin\Debug\net6.0\LINQCollection.pdb
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\LINQCollection.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\LINQCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\LINQCollection.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\LINQCollection.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\LINQCollection.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\LINQCollection.dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\refint\LINQCollection.dll
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\LINQCollection.pdb
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\LINQCollection.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Tecnologías para la construcción\LINQCollectionTest\LINQCollection\obj\Debug\net6.0\ref\LINQCollection.dll
